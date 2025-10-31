@@ -17,6 +17,7 @@ Rellenas el manifest y dockerfile
 Entra a  https://render.com
 Crea una cuenta (puedes usar GitHub para vincular tu repo).
 Sube tu proyecto a GitHub o GitLab.
+Se puede tambien hacer desde un respositorio ajeno mediante el enlace de Github
 
 3. Desplegar en Render
 
